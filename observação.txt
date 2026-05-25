@@ -1,0 +1,1 @@
+Obs: As respostas das questões estão comentadas abaixo do código em cada arquivo .py
